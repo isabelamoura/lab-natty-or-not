@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Programando até na lua ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi criado uma imagem com referência as mulheres na programação, e na lua por ser um espaço que ninguém imagina mas elas conseguem.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizado o criador de imagens do bing.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Conteúdo criado pelo bing com a seguinte descrição: "Imagem realista de mulher programando na lua com roupa de astronauta".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![OIG4](https://github.com/user-attachments/assets/f1ccc10d-9d32-4875-bb94-f20de0f4a9d4)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Importante destacar o quão necessário e prático se faz a IA todos os dias, facilitando a vida das pessoas.
 ```
 
 ### Exemplos e Insigths
