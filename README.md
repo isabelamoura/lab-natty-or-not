@@ -32,7 +32,7 @@ Utilizado o criador de imagens do bing.
 Conteúdo criado pelo bing com a seguinte descrição: "Imagem realista de mulher programando na lua com roupa de astronauta".
 
 ## 🚀 Resultados
-![OIG4](https://github.com/user-attachments/assets/f1ccc10d-9d32-4875-bb94-f20de0f4a9d4)
+(https://www.bing.com/images/create/imagem-realista-de-mulher-programando-na-lua-com-r/1-66cf6fc6fb384c789bb402bcfdea3119?id=Z0Y7Q1rDLz7RsDBQTLFwQg%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.2LRi_MzPUKCAV8afVVko&skey=o_f0lB46SzipMf_piIQVACkpqP_NeAXa9tyfuh_DK3s&FORM=GCRIDP&ajaxhist=0&ajaxserp=0)
 
 
 ## 💭 Reflexão (Opcional)
